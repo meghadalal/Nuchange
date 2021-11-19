@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+.content {
+  padding-top: 2cm;
+  padding-bottom: 2cm;
+  padding-right: 3cm;
+  padding-left: 3cm;
+  background-color: thistle;
+  font-family: 'Segoe UI';
+
+}
+.nav {
+  font-weight:400;
+  background-color: chartreuse;
+  color: orangered;
+  border-color: chartreuse;
+
+}
+.nav1 {
+  text-align: center;
+  font-style: italic;
+  font-family: Georgia;
+  font-weight: bolder;
+  color: black;
+}
+.card{
+  height: 20rem;
+  width: 18rem;
+  padding-bottom: 20rem;
+  padding-top: 2rem;
+  border-color: white;
+  border-radius: 5%;
+}
+.card1{
+  height: 5cm;
+  width: 5cm;
+}
+.bottom {
+  width: 3cm;
+  height: 3cm;
+  border-radius: 70%;
+  border-color: black;
+
+}
+.a {
+  background-color: thistle;
+  font-family: 'Segoe UI';
+  font-weight: bolder;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
+}
